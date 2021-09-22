@@ -1,4 +1,5 @@
 # YUV-PPM-image-editor
+
 ## Features
 - import/export plain PPM format images, YUV3 format images
 - rotate image clockwise
@@ -6,3 +7,5 @@
 - grayscale image
 - equalize image using histogram balancing
 - photo stacking multiple images into one
+
+## Main class: ImageProcessing.java
