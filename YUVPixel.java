@@ -1,5 +1,5 @@
 
-package ce326.hw2;
+package YUV-PPM-image-processor;
 
 /**
  *
